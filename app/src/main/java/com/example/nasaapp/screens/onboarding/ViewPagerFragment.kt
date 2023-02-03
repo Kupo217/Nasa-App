@@ -1,4 +1,4 @@
-package com.example.nasaapp.sceens.onboarding
+package com.example.nasaapp.screens.onboarding
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -7,9 +7,8 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.viewpager2.widget.ViewPager2
 import com.example.nasaapp.R
-import com.example.nasaapp.sceens.DetailsScreen
-import com.example.nasaapp.sceens.FavoritesScreen
-import com.example.nasaapp.sceens.MainScreen
+import com.example.nasaapp.screens.FavoritesScreen
+import com.example.nasaapp.screens.MainScreen
 
 
 class ViewPagerFragment : Fragment() {

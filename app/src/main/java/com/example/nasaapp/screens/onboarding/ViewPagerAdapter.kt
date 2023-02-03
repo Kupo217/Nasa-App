@@ -1,4 +1,4 @@
-package com.example.nasaapp.sceens.onboarding
+package com.example.nasaapp.screens.onboarding
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
