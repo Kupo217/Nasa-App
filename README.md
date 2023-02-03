@@ -16,3 +16,5 @@ The full documentation for this API can be found in the APOD API Github reposito
 ## 1 - Welcome Screen
 
 ![image](https://user-images.githubusercontent.com/77923042/216671791-a77e9511-e384-4533-b537-515059264099.png)
+![image](https://user-images.githubusercontent.com/77923042/216671927-6faf557d-a986-4690-9553-5172d04ca219.png)
+
